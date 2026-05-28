@@ -1,6 +1,8 @@
 .env
 data/
 vectorstore/
+vectorstore_summaries/
+docstore.json
 __pycache__/
 *.pyc
 **/__pycache__/
