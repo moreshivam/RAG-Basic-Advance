@@ -3,3 +3,5 @@ data/
 vectorstore/
 __pycache__/
 *.pyc
+**/__pycache__/
+**/*.pyc
